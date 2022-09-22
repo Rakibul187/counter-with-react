@@ -1,0 +1,23 @@
+.plus {
+    padding: 10px 40px;
+    border: none;
+    background-color: blueviolet;
+    border-radius: 7px;
+    font-size: 16px;
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+.minus {
+    padding: 10px 40px;
+    border: none;
+    background-color: brown;
+    border-radius: 7px;
+    font-size: 16px;
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+.number {
+    color: chocolate;
+}
